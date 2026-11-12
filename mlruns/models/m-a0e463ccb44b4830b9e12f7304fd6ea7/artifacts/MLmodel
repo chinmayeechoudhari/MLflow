@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Users/Chinmayee/.gemini/antigravity/scratch/MLflow_Assignment/mlruns/models/m-a0e463ccb44b4830b9e12f7304fd6ea7/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.14.0
+model_id: m-a0e463ccb44b4830b9e12f7304fd6ea7
+model_size_bytes: 1821151
+model_uuid: m-a0e463ccb44b4830b9e12f7304fd6ea7
+prompts: null
+run_id: 758699debe244e3db10fad0f6130e413
+utc_time_created: '2026-11-12 10:32:55.740437'
