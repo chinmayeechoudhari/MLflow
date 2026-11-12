@@ -31,3 +31,4 @@ ENV/
 
 # Temporary artifacts directory (persisted in mlruns)
 temp_artifacts/
+
